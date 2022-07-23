@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 felicidad
 
 tristeza
-=======
-felicidad
->>>>>>> rama1
